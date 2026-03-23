@@ -2,7 +2,8 @@
 
 
 
-Low-Energy Lunar Transfer Trajectory for a 6U CubeSat
+**Low-Energy Lunar Transfer Trajectory for a 6U CubeSat**
+
 Design and optimization of a low-energy Earth-to-Moon transfer trajectory for a 6U CubeSat equipped with an iodine-fueled micro electric propulsion (EP) system.
 The trajectory is formulated as an optimal control problem and solved in two phases using the indirect variational method (Pontryagin's Maximum Principle):
 
